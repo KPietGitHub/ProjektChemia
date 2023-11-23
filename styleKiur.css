@@ -1,0 +1,25 @@
+* {
+background-color: #151515;
+}
+
+.jpg {
+    height:1000px;
+    width: 700px;
+    border: 5px solid rgb(216, 90, 31);
+    float: left;
+    margin-right: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    color: white;
+
+  }
+  .textNormal {
+    display: block;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+  }
+
+
